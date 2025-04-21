@@ -3,7 +3,7 @@ import streamlit as st
 import urllib.request
 
 # ✅ FIXED: Use the raw URL of the pickle file
-url = "https://raw.githubusercontent.com/dk8281/Marketing_campaign/main/best_kmeans_pipeline (1).pkl"
+url = "https://raw.githubusercontent.com/dk8281/Marketing_campaign_/main/best_kmeans_pipeline.pkl"
 
 # Load the model
 try:
